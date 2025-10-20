@@ -179,4 +179,16 @@ GM:
 Monsters/Monster_olga
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
-
+;
+EgyptPipes:
+Monsters/Bonapetite
+Monsters/Congle
+Monsters/Gnarls
+Monsters/Krillby
+Monsters/Pladdie
+Monsters/Scaratar
+Monsters/Uuduk
+Monsters/Whimmzies
+Monsters/Loodvigg
+Monsters/Buzzinga
+Monsters/Shlep
