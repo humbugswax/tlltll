@@ -405,10 +405,11 @@ Composter
 Heaap
 Bigsterr
 Mulshy
+Balls
 ;
 Monsters/Monster_percFrog
 PercFrog
-Phibbobeat :>
+Shitbeat :<
 Frogge
 Brikfut
 Jaboba
@@ -416,6 +417,8 @@ Jopa
 Tyrone
 SAPECA
 Sapo.
+Thlugg
+hi
 ;
 Monsters/Monster_bridgit,Monsters/Monster_bridgit_young
 Grendelle
@@ -488,6 +491,7 @@ Mulmun
 Sloprock
 Teddy
 Ont
+Fish
 ;
 Monsters/Monster_galvana
 Ampool
@@ -558,6 +562,8 @@ Quaddhorn
 Snorpodon
 Nash & Hiers
 They & Them
+Xe & Xem
+Teetus 'n Tottus
 ;
 Monsters/Monster_tiawa
 Kweeny
@@ -571,6 +577,7 @@ Roi
 Xyla
 Zafumi
 Zeltz
+Hugno
 ;
 Monsters/Monster_theremind,Monsters/Monster_theremind_meduza,Monsters/Monster_theremind_young
 Amygdahlia
@@ -584,6 +591,7 @@ Nerron
 Nurv
 Seenapps
 Greymann
+Erick
 ;
 Monsters/Monster_fluoress,Monsters/Monster_fluoress_young
 Eclipse
@@ -600,6 +608,7 @@ UltraVyolet
 Xylotone
 Luma
 Luzz
+Ware
 ;
 Monsters/Monster_denchuhs
 Eee & Nahmel
@@ -717,6 +726,7 @@ Nunatak
 Rex
 Serine
 Wormaggot
+Wormf
 ;
 Monsters/Monster_schmoochle
 Amamini
@@ -736,11 +746,15 @@ Sweetums
 Uandme
 Eksowe
 Luvbirb
+Mwuh
+RuleBreaker
 ;
 Monsters/Monster_trox_young,Monsters/Monster_trox
 Rocky
 Rox
 TreeRex
+Mr. Rocky
+T-Rox
 ;
 Monsters/Monster_punkleton,Monsters/Monster_punkleton_young
 Bonesy
@@ -759,6 +773,7 @@ Spookster
 Treaters
 Tricksy
 Vinnie
+Sir Grumpson
 ;
 Monsters/Monster_ffydill
 Schnif
@@ -776,6 +791,7 @@ CaAoob
 Sir Smunk
 Zapa
 Jackno-Lantern
+Moose
 ;
 Monsters/Monster_scaratar
 Beetar
@@ -867,6 +883,7 @@ Smithy
 Stoke
 Tandoor
 Torge
+FireTorch
 ;
 Monsters/Monster_blasoom
 Daffodil
@@ -996,6 +1013,7 @@ Sunekit
 Glaze
 Yumeow
 Purr
+Charlie
 ;
 Monsters/Monster_gumtromp
 Gomma
@@ -1006,6 +1024,7 @@ Gummy
 Sharmalade
 Marm
 Quishy
+Billy Bob..?
 ;
 Monsters/Monster_gumtromp_rare
 Gumnot
@@ -1041,6 +1060,7 @@ Mawtherer
 Sugahors
 Seacane
 Cavalin
+Lollipop
 ;
 Monsters/Monster_marshflamo
 Flamb
@@ -1051,6 +1071,7 @@ Stiik
 Blanko
 Burnessa
 Beddermelt
+Deppresion
 ;
 Monsters/Monster_brasscuit
 Chocobrass
@@ -1060,6 +1081,7 @@ Cooki
 Chocohorn
 Docesss
 Breakspeed
+fatass
 ;
 Monsters/Monster_gobstomper
 Tiffcrak
@@ -1070,6 +1092,7 @@ Rohard
 Dentestroy
 Tristgob
 Synco-Bite
+Bill
 ;
 Monsters/Monster_claramel
 Dociraptor
@@ -1080,6 +1103,7 @@ Syrown
 Oilinet
 Densabor
 Condeite
+Creamer
 ;
 Monsters/Monster_sprinklate
 Choko
@@ -1102,6 +1126,9 @@ Pumtheez
 Vasdeldt
 Wurdood
 ZeeDine
+CakeyWakey
+Wickman
+Eat me!
 ;
 Monsters/Monster_ghazt_undof,Monsters/Monster_ghazt
 Gataria
@@ -1120,6 +1147,7 @@ Skwurm
 Vibriss
 Wyska
 Xander
+Curvy
 ;
 Monsters/Monster_wubbox_undof,Monsters/Monster_wubbox,Monsters/Monster_wubbox_undof_awake
 Bowhaus
@@ -1143,6 +1171,16 @@ Alsen
 Wubbob
 Wubstep
 Standart
+64
+Wub
+Stark
+Wolvie
+Killer Clown
+Wubmid
+Wubbtastic
+The Hex
+Hex
+ITS THE FUCKING HEX
 ;
 Monsters/Monster_wubbox_rare_undof
 Bowhaus
@@ -1166,6 +1204,8 @@ EerRor
 Glitch
 Bynari
 Comvert
+Rare Wubbot
+Iestyn
 ;
 Monsters/Monster_clamble
 Bluto
@@ -1184,6 +1224,7 @@ Plates
 Smashy
 Talerze
 Tink
+Plates 2
 ;
 Monsters/Monster_wheezel
 Will Innaboks
@@ -1197,6 +1238,8 @@ Schpeyd
 Yooker
 Jack
 Thiselt Uizel
+Glubfub
+Bock-stroll
 ;
 Monsters/Monster_meduza
 Necronia
@@ -1207,6 +1250,7 @@ S'Theenoh
 Y'Ryali
 Dee-kapp
 Beahedd
+Kaossandra
 ;
 Monsters/Monster_toejammer_rare
 Althaya
@@ -1225,6 +1269,7 @@ Sklush
 Smmore
 Squimb
 Ululula
+Kreativitee
 ;
 Monsters/Monster_oaktopus_rare
 Alby
@@ -1251,6 +1296,7 @@ Rico
 Bleakurr
 Haizzen
 Beoaker
+Krankase
 ;
 Monsters/Monster_varrow_rare
 Bonessa
@@ -1280,6 +1326,8 @@ Docta Monsta
 Aggamemmon 
 Tydon 
 THE ZAAAH
+Bah!
+I. B. Lieve
 ;
 Monsters/Knott_1
 Notr
@@ -1288,6 +1336,18 @@ Falx
 ;
 Monsters/Knott_2
 Wam
+Bay Yolal
+Ownleefahnz
+Wam
+Bay Yolal
+Ownleefahnz
+Wam
+Bay Yolal
+Ownleefahnz
+Wam
+Bay Yolal
+Ownleefahnz
+hes watching you. run.
 ;
 Monsters/Knott_3
 Rules
@@ -1335,6 +1395,7 @@ Shookin
 Sprigg
 Twiglit
 Tyke
+Erick
 ;
 Monsters/Monster_reedling_young,Monsters/Monster_reedling_young_singer
 Creeech
@@ -1625,6 +1686,9 @@ Pellow
 Monsters/Monster_treble
 Goated
 Trebby
+Oasis
+Dandeedoo
+Kwyor
 ;
 Monsters/Knott_special
 Wetland
@@ -1744,6 +1808,10 @@ Yoyo
 Ziggy-Zoo
 Zoe
 Zumpler
+Charlie
+Char-Char
+Chimmy Char
+Chunky Monkey
 ;
 Monsters/Monster_quibbleGM
 Kwibb
@@ -1753,3 +1821,4 @@ Priszum
 Kazak
 Stan
 ;
+
